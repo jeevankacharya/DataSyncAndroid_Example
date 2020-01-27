@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sync-adapter xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:accountType="com.zoftino.sync"
+    android:allowParallelSyncs="false"
+    android:contentAuthority="com.zoftino.sync.cashback"
+    android:isAlwaysSyncable="true"
+    android:supportsUploading="false"
+    android:userVisible="false"></sync-adapter>
